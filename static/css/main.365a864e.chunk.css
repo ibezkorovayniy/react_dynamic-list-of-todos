@@ -1,0 +1,2 @@
+.App{text-align:center;font-family:Arial,sans-serif}.todo-item{display:block;border:1px solid #000;border-radius:5px;height:100px}.item--title,.item-user--name{font-weight:700}.todo-list{display:grid;grid-template-columns:repeat(auto-fill,400px);grid-gap:20px;justify-content:center}.btn-completed{margin-bottom:10px;height:50px;font-size:14px;border-radius:5px;background-color:green;color:#fff}.btn-completed:hover{cursor:pointer;background-color:#005000}
+/*# sourceMappingURL=main.365a864e.chunk.css.map */
